@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'OCModuleB_Category_Example' do
+  pod 'OCModuleB_Category', :path => '../'
+
+  target 'OCModuleB_Category_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
