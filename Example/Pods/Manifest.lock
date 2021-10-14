@@ -1,0 +1,16 @@
+PODS:
+  - OCModuleB_Category (0.1.0)
+
+DEPENDENCIES:
+  - OCModuleB_Category (from `../`)
+
+EXTERNAL SOURCES:
+  OCModuleB_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OCModuleB_Category: 9407ac94b88856cbc6adf4dfbe35a7fc9ea631cb
+
+PODFILE CHECKSUM: fd0ae8ba3a1f96d79f41908623de6b6aab729f2c
+
+COCOAPODS: 1.11.2

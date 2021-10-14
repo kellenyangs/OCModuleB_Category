@@ -1,0 +1,22 @@
+{
+  "name": "OCModuleB_Category",
+  "version": "0.1.0",
+  "summary": "A short description of OCModuleB_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangshen/OCModuleB_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangshen": "shen.yang@beantechs.com"
+  },
+  "source": {
+    "git": "https://github.com/yangshen/OCModuleB_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "OCModuleB_Category/Classes/**/*"
+}
